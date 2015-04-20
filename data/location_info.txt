@@ -1,0 +1,38 @@
+{
+"cateList":[
+{
+"storeCate":"01",
+"storeList":[
+{"storeName":"채플린","storeTag":200001,"latitude":37.523310,"longtitude":126.890962},
+{"storeName":"르망","storeTag":200002,"latitude":37.521908,"longtitude":126.891091},
+{"storeName":"Vouge","storeTag":200003,"latitude":37.521880,"longtitude":126.891247},
+{"storeName":"Mog","storeTag":200004,"latitude":37.522248,"longtitude":126.891013},
+{"storeName":"셰를린","storeTag":200005,"latitude":37.522308,"longtitude":126.891598},
+{"storeName":"La parmein","storeTag":200006,"latitude":37.521812,"longtitude":126.890868},
+{"storeName":"NewNew","storeTag":200007,"latitude":37.523140,"longtitude":126.890815},
+{"storeName":"룰루","storeTag":200008,"latitude":37.522597,"longtitude":126.891686}
+]},
+{"storeCate":"02",
+"storeList":[
+{"storeName":"양남식육식당","storeTag":100001,"latitude":37.522565,"longtitude":126.890641},
+{"storeName":"엘파소","storeTag":100002,"latitude":37.522759,"longtitude":126.890709},
+{"storeName":"숯불한판","storeTag":100003,"latitude":37.522272,"longtitude":126.890852},
+{"storeName":"Coffee Smite","storeTag":100004,"latitude":37.522242,"longtitude":126.891008},
+{"storeName":"비어뱅뱅","storeTag":100005,"latitude":37.521953,"longtitude":126.890941},
+{"storeName":"너도꼼장어","storeTag":100006,"latitude":37.521755,"longtitude":126.890150},
+{"storeName":"고기야","storeTag":100007,"latitude":37.521604,"longtitude":126.890061},
+{"storeName":"아우네 김치찌개","storeTag":100008,"latitude":37.522693,"longtitude":126.890686}
+]},
+{
+"storeCate":"03",
+"storeList":[
+{"storeName":"양남보드게임방","storeTag":200001,"latitude":37.523231,"longtitude":126.890420},
+{"storeName":"GuestHouse","storeTag":200002,"latitude":37.523608,"longtitude":126.891214},
+{"storeName":"양평멀티방","storeTag":200003,"latitude":37.522729,"longtitude":126.889881},
+{"storeName":"영등포 캡슐룸","storeTag":200004,"latitude":37.522625,"longtitude":126.889592},
+{"storeName":"라이프 모텔","storeTag":200005,"latitude":37.522385,"longtitude":126.891625}
+]
+}
+]
+
+}
